@@ -1,2 +1,3 @@
 # hello-world
-Aprendendo a usar o Github
+Hello guys!
+I'm starting this wonderful world of programming
